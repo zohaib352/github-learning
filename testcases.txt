@@ -4,3 +4,5 @@ signup
 dashboard stats
 create new client
 edit client
+create new request
+edit request
