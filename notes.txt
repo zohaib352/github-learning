@@ -1,0 +1,51 @@
+1. What problem does Version Control solve?
+
+Version Control solves the problem of managing changes to files over time. It prevents files from being overwritten, allows you to track who made changes, compare different versions, and restore older versions if something goes wrong.
+
+2. Why do companies use Git?
+
+Companies use Git because it:
+
+Tracks changes to code and documents
+Enables multiple team members to work on the same project simultaneously
+Maintains a complete history of changes
+Makes it easy to identify and fix issues
+Supports code reviews and collaboration
+Helps manage different versions of a project
+3. Can Git work without GitHub?
+
+Yes.
+
+Git is a standalone Version Control System that works on your local computer. You can create repositories, track changes, create branches, and manage versions without using GitHub.
+
+Example:
+
+git init
+git add .
+git commit -m "Initial commit"
+
+All of this can be done without an internet connection or GitHub account.
+
+4. Can GitHub work without Git?
+
+No.
+
+GitHub is a platform built around Git repositories. It relies on Git to track and manage changes. Without Git, GitHub would not be able to provide version control functionality.
+
+In simple terms:
+
+Git = Engine
+GitHub = Car
+
+A car cannot run without an engine, just as GitHub cannot function as a version control platform without Git.
+
+Short Interview Answers
+
+Q: What is Version Control?
+A system that tracks changes to files over time and allows users to manage, review, and restore previous versions.
+
+Q: Why is Git used?
+Git is used to track changes, collaborate with teams, maintain version history, and manage software projects efficiently.
+
+Q: Difference between Git and GitHub?
+Git is a Version Control System, while GitHub is a cloud platform that hosts Git repositories and enables collaboration.
